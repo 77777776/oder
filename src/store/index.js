@@ -50,8 +50,8 @@ export default createStore({
             return state.info + ' Tom'
         }
     },
-    modules: {
-    }
+    modules: { }
+   
 })
 
 
